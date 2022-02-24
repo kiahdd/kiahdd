@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi Caffeinated fast fingers! :bowtie:
+
+- 🔭 I am currently working as a Data Analyst Research Assistant in the University of Toronto :smirk:.
+
+[![Kiahdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiahdd)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kiahdd/kiahdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
