@@ -4,9 +4,7 @@
 - 🌱 I’m currently learning AWS.
 - 📫 How to reach me: kianahaddadi@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiahdd&hide=javascript,css,scss,html&theme=tokyonight)
-
-[![Kiahdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiahdd)](https://github.com/anuraghazra/github-readme-stats)
+[![Kiahdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiahdd&hide=commits,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **kiahdd/kiahdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
