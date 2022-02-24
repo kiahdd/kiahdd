@@ -1,6 +1,7 @@
-### Hi Caffeinated fast fingers! :bowtie:
+### Hi Caffeinated fast fingers! 
 
-- 🔭 I am currently working as a Data Analyst Research Assistant in the University of Toronto :smirk:.
+- 🔭 I am currently working as a Data Analyst Research Assistant in the University of Toronto :bowtie: .
+- 👯 I contribute to https://github.com/LMSE
 - 🌱 I’m currently learning AWS.
 - 📫 How to reach me: kianahaddadi@gmail.com
 - 😄 Languages I mostly use: SQL, Python
