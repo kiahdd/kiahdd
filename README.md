@@ -3,6 +3,8 @@
 - 🔭 I am currently working as a Data Analyst Research Assistant in the University of Toronto :smirk:.
 - 🌱 I’m currently learning AWS.
 - 📫 How to reach me: kianahaddadi@gmail.com
+- 😄 Languages I mostly use: SQL, Python
+- ⚡ Fun fact: I a plant-a-holic (I keep 183 plants in my small studio apartment :leaves:)
 
 [![Kiahdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiahdd&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
