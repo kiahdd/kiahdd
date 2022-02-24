@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning AWS.
 - 📫 How to reach me: kianahaddadi@gmail.com
 - 😄 Languages I mostly use: SQL, Python
-- ⚡ Fun fact: I a plant-a-holic (I keep 183 plants in my small studio apartment :leaves:)
+- ⚡ Fun fact: I am a plant-a-holic (My inventory includes > 200 plants and cuttings :leaves:)
 
 [![Kiahdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiahdd&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
