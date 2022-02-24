@@ -1,6 +1,10 @@
 ### Hi Caffeinated fast fingers! :bowtie:
 
 - 🔭 I am currently working as a Data Analyst Research Assistant in the University of Toronto :smirk:.
+- 🌱 I’m currently learning AWS.
+- 📫 How to reach me: kianahaddadi@gmail.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiahdd&hide=javascript,css,scss,html&theme=tokyonight)
 
 [![Kiahdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiahdd)](https://github.com/anuraghazra/github-readme-stats)
 
