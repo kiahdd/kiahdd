@@ -1,4 +1,4 @@
-### Hi Caffeinated fast fingers! 
+### Hi caffeinated fast fingers! 
 
 - 🔭 I am currently working as a Data Analyst Research Assistant in the University of Toronto :bowtie: .
 - 👯 I contribute to https://github.com/LMSE
