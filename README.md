@@ -1,13 +1,32 @@
-### Hi caffeinated fast fingers! 
+✨ **Hi there, I’m Kiana!**  
+🎯 Data Scientist @ **BMO** | 3+ years of turning raw data into real-world impact
 
-- 🔭 I am currently working as a Data Analyst Research Assistant in the University of Toronto :bowtie: .
-- 👯 I contribute to https://github.com/LMSE
-- 🌱 I’m currently learning AWS.
-- 📫 How to reach me: kianahaddadi@gmail.com
-- 😄 Languages I mostly use: SQL, Python, Matlab
-- ⚡ Fun fact: I am a plant-a-holic (My inventory includes > 200 plants and cuttings :leaves:)
+---
 
-[![Kiahdd's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiahdd&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+🧠 **Expertise**  
+- 🔍 Machine Learning Model Development & Lifecycle  
+- ⚙️ Databricks: MLflow • Delta Lake • Feature Store • Pipelines  
+- 💻 Languages: Python • SQL • Matlab  
+
+---
+
+🚀 **What I’m up to**  
+- 🌩️ Exploring cloud-native ML (AWS focus)  
+- 🛠️ Building scalable pipelines & production-ready solutions  
+- 🧪 Passionate about experimentation, iteration, and results  
+
+---
+
+📦 **Find me here**  
+- 🧑‍💻 Main GitHub: [github.com/kihaddadi](https://github.com/kihaddadi)  
+- 🤝 Past contributions: [github.com/LMSE](https://github.com/LMSE)  
+- 📬 Reach out: kianahaddadi@gmail.com  
+
+---
+
+🌿 **Fun fact**  
+I’m a proud **plant-a-holic** — with over *200* green friends and cuttings.  
+They watch me code. I pretend they give feedback. 🌱
 
 <!--
 **kiahdd/kiahdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
